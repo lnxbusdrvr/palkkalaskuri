@@ -1,0 +1,10 @@
+Cure for 60-100sec bug:
+
+If the number of seconds is 60 or more do the following:
+Subtract 60 from the number of seconds.
+(68 seconds - 60 seconds = 8 seconds)
+
+Increase the number of minutes by one.
+(6 minutes + 1 minute = 7 minutes)
+
+Repeat this process if the number of seconds is still 60 or more.

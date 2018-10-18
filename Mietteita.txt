@@ -1,0 +1,6 @@
+
+
+Jos roundiin määrittelee 0.6:ksi, niin siirtääkö se kokonaisluvun suoraan 1:ksi,
+eli laskeeko se silloin minuutin juurikin oikein.
+
+

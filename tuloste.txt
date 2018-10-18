@@ -1,0 +1,31 @@
+
+PALKKALASKURI
+-------------
+
+Syötä tuntipalkkasi:
+10
+Kuinka monta työpäivää:
+4
+-----------------------------------
+Anna 1 päivän työtunnit: 4
+Anna 1, päivän minuutit: 33
+yli minuutinAnna 2 päivän työtunnit: 4
+Anna 2, päivän minuutit: 37
+yli minuutinAnna 3 päivän työtunnit: 4
+Anna 3, päivän minuutit: 33
+yli minuutinAnna 4 päivän työtunnit: 4
+Anna 4, päivän minuutit: 37
+yli minuutin-----------------------------------
+Tehdyt työtunnit yhteensä: 20h 500111970min                           -------
+Bruttopalkka: 0.000000eur
+              ----------
+
+Keskimääräinen työpäivän pituus: 0.0
+
+Syötetyt tunnit:
+4 33
+4 37
+4 33
+4 37
+
+

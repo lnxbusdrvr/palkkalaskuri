@@ -1,0 +1,11 @@
+
+Jos minutteja on enemmän, tai yhtäpaljon, kuin 60minuuttia: minuutti>=60
+niin:
+laske minuutti / 60.
+
+------------------------
+Jos desimaali on enemmän, tai yhtäsuuri, kuin 60: .2f% >=60
+niin:
+laske minuutti / 60
+
+
