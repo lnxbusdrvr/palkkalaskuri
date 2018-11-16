@@ -36,7 +36,11 @@ int main (void)
      
 
 	printf("-----------------------------------\n");
+<<<<<<< HEAD
 	printf("Tehdyt työtunnit yhteensä: %.2f\n", yht);
+=======
+	printf("Tehdyt työtunnit yhteensä: %.1f\n", yht);
+>>>>>>> 6d72af6654e4f6d8e56e9a3d4430d69207d4e83a
 	printf("                           -------\n");
 
 	printf("Bruttopalkka: %.2feur\n", yht*tuntipalkka); 
