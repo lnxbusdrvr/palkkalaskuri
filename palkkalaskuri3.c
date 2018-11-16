@@ -57,7 +57,7 @@ int main (void)
  
     for(i=0; i<paivat; i++)
     {
-        printf("%.2f\n", taulukko[i]);     
+        printf("%.2f\n", tyotunnit[i]);     
     }   
            
     printf("\n");
