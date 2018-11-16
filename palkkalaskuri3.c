@@ -34,7 +34,7 @@ int main (void)
 	yht+=tyotunnit[i];
 
         // pyöristetään desimaali
-        If(yht >= 0.60)
+        if(yht >= 0.60)
         {
             printf("yli minuutin");
             yht=yht+1.00;
