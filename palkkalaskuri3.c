@@ -34,10 +34,12 @@ int main (void)
 	yht+=tyotunnit[i];
 
         // pyöristetään desimaali
-        if(yht >= 0.60)
+        // ? question mark vastaa yhtä merkkiä
+        // * asterisk vastaa yhtä tai useampaa merkkiä
+        if(yht >= .60)
         {
             printf("yli minuutin");
-            yht=yht+1.00;
+            yht=yht+1-0.60;
         }
             
     }
