@@ -19,13 +19,13 @@ HUOM!. Käytä desimaalierottimena pistettä esimo 2.43, ei: ~~2,43~~
 - [palkkalaskuri32.exe](palkkalaskuri32.exe) 32-bittinen suoritettava Windows-tiedosto
 - [palkkalaskuri64.exe](palkkalaskuri64.exe) 64-bittinen suoritettava Windows-tidosto
 
-Ohjelman voi kääntä myös itse esim:
+Ohjelman voi kääntää myös itse esim:
 
 Linuxissa
 
 ```gcc -o palkkalaskuri palkkalaskuri3.c```
 
-Unixissa:
+Unixissa/Ymmärtäisin, että myös Mac OS X:ssä:
 
 ```cc palkkalaskuri.c```
 
