@@ -13,7 +13,6 @@ Program asks hours and minutes seperetly you do not need to use coma(,) or point
 
 For now: This program is in finnish only, sorry for that.
 
-HUOM!. Käytä desimaalierottimena pistettä esimo 2.43, ei: ~~2,43~~
 
 - [palkkalaskuri3](palkkalaskuri3) 64-bittinen Linuxissa suoritettava tiedosto 
 - [palkkalaskuri32.exe](palkkalaskuri32.exe) 32-bittinen suoritettava Windows-tiedosto
